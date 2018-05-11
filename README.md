@@ -1,4 +1,5 @@
-#Functional Programming#
+**Functional Programming\:**  
+
 Some guy was just presenting about his "functional programming".  
 It was "greek to you" (or maybe "Bar-bar-bar-barian" - lol).  
 
